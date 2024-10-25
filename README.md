@@ -1,11 +1,11 @@
-# Character-Level-Transformer-Model-or-Text-Synthesis
+# Character-Level-Transformer-Model-for-Text-Synthesis
 A simple foundational PyTorch-based model for character-level language modeling
 
 ---
 
 ### Title and Details
 
-**Title**: Character-Level-Transformer-Model-or-Text-Synthesis
+**Title**: Character-Level-Transformer-Model-for-Text-Synthesis
 
 **Details**: This project implements a character-level language model using a multi-layer Transformer architecture. The model is capable of generating text character-by-character, trained on sequence data with customizable hyperparameters. Key features include training on unique datasets, a configurable Transformer model, and CUDA support for optimized performance.
 
@@ -56,7 +56,7 @@ To set up the environment, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Gummadianand27/Character-Level-Transformer-Model-or-Text-Synthesis.git
+   git clone https://github.com/Gummadianand27/Character-Level-Transformer-Model-for-Text-Synthesis.git
    ```
 
 2. **Install required packages**:
